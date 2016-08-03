@@ -1,0 +1,8 @@
+name: Lookup
+author: Dunios
+version: 1.4
+main: me.Dunios.Lookup.Main
+
+commands:
+   lookup:
+   chatlog:
